@@ -1,0 +1,2 @@
+document.getElementById("con")获取的只是P标签，返回的是[object HTMLParagraphElement]，
+document.getElementById("con").innerHTML获取的才是P标签里的内容，返回的是JavaScript
